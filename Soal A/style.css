@@ -1,0 +1,65 @@
+.utama {
+	background-color:#007D83;
+	border: none;
+	color: white;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	display: inline;
+}
+
+.utama:hover{
+	border: 0.5px solid black;
+}
+
+#tombol1:hover{
+	border: 0.5px solid black;
+}
+
+#tombol2:hover{
+	border: 0.5px solid black;
+}
+
+#riwayat{
+	padding: 5px;
+}
+
+.button{
+	display: grid;
+	grid-row-gap: 25px;
+	width: 400px;
+}
+
+#tombol1{
+	background-color:#007D83;
+	border: none;
+	color: white;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	display: inline;
+}
+
+.tombolgrey{
+	background-color:#7B0002;
+	border: none;
+	color: white;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	display: inline;
+}
+
+#tombol2{
+	
+	border: none;
+	color: white;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	display: inline;
+}
